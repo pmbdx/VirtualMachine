@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1747675243 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1747676126 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\parser_ll.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1747424921 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\parser_rdcp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747643507 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747748566 source:c:\users\ingenieria\downloads\yaporfavorsueltame\yaporfavorsueltame\practice3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1747748566 source:c:\users\ingenieria\downloads\yaporfavorsueltame\yaporfavorsueltame\practice3\parser_rdcp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747748566 source:c:\users\ingenieria\downloads\yaporfavorsueltame\yaporfavorsueltame\practice3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747749579 source:c:\users\ingenieria\downloads\yaporfavorsueltame\yaporfavorsueltame\practice3\parser_ll.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

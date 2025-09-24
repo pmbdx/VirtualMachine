@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1742524695 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice2\compiler_with_rdandll\good_compiler\practice2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1742524695 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice2\compiler_with_rdandll\good_compiler\practice2\parser_rdcp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1742525413 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice2\compiler_with_rdandll\good_compiler\practice2\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747424921 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\parser_rdcp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747639106 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747630580 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1747428977 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\practices\practice3\practice3\parser_ll.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

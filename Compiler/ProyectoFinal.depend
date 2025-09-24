@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1748969802 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\proyectofina\proyectofina\practice3\parser_ll.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1749023348 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\proyectofina\proyectofina\practice3\parser_rdcp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1749023348 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\proyectofina\proyectofina\practice3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1749021400 source:c:\users\dem29\onedrive\escritorio\pura ingeniería\6_sexto semestre\compiladores\proyectofina\proyectofina\practice3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
